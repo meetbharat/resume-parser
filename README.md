@@ -26,7 +26,4 @@ Set the directory to the one which contains the extracted files, and save your r
 
     $ python resumeparser.py
 
-## Sample Output
-
-![Page](https://i.imgur.com/4U6IfvX.png)
 
