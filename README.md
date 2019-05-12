@@ -4,6 +4,7 @@
 
 Code to parse information such as Name, Email, Phone Number, skillset and the technology associated with it.
 
+
 ## requirements
 Following is the list of python libraries required
 
